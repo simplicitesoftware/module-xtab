@@ -1,0 +1,12 @@
+{
+    "date": "Sat Feb 17 16:17:36 CET 2018",
+    "name": "XTab",
+    "format": "xml",
+    "description": "The `XTab` module is a packaging of the **XTab**\nopen source project.\n\nSee. https://github.com/cgdave/xtab for details",
+    "repository": {
+        "type": "url",
+        "url": "https://www.simplicite.io/resources/modules/xtab-3.1.xml"
+    },
+    "version": "3.1",
+    "dependencies": [{"Simplicite": "4.0"}]
+}
