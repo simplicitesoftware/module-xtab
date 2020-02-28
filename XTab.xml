@@ -5,13 +5,19 @@
 	<action>upsert</action>
 	<data>
 		<mdl_name>XTab</mdl_name>
-		<mdl_version>3.1</mdl_version>
-		<mdl_url><![CDATA[https://www.simplicite.io/resources/modules/xtab-3.1.xml]]></mdl_url>
-		<mdl_lastupd>2018-02-17 16:17:36</mdl_lastupd>
+		<mdl_version>4.0</mdl_version>
+		<mdl_prefix>xtab</mdl_prefix>
+		<mdl_url><![CDATA[{
+	"type": "git",
+	"origin": {
+		"uri": "https://github.com/simplicitesoftware/module-xtab.git"
+	}
+}]]></mdl_url>
+		<mdl_lastupd>2020-02-28 14:24:57</mdl_lastupd>
 		<mdl_comment><![CDATA[The `XTab` module is a packaging of the **XTab**
 open source project.
 
-See. https://github.com/cgdave/xtab for details]]></mdl_comment>
+See. https://github.com/cgdave/xtab for details.]]></mdl_comment>
 	</data>
 </object>
 <object>
@@ -30,8 +36,8 @@ See. https://github.com/cgdave/xtab for details]]></mdl_comment>
 		<res_lang>ANY</res_lang>
 		<res_code>XTAB_STYLES</res_code>
 		<res_cached>1</res_cached>
-		<res_file>Disposition/default-resources/XTAB_STYLES.css</res_file>
-		<res_file_compiled/>
+		<res_file>resources/Disposition/default/XTAB_STYLES.css</res_file>
+		<res_file_compiled>resources/Disposition/default/XTAB_STYLES.min.css</res_file_compiled>
 		<res_image/>
 		<row_module_id.mdl_name>XTab</row_module_id.mdl_name>
 	</data>
@@ -48,8 +54,8 @@ See. https://github.com/cgdave/xtab for details]]></mdl_comment>
 		<res_lang>ANY</res_lang>
 		<res_code>XTAB_SCRIPT</res_code>
 		<res_cached>1</res_cached>
-		<res_file>Disposition/default-resources/XTAB_SCRIPT.js</res_file>
-		<res_file_compiled/>
+		<res_file>resources/Disposition/default/XTAB_SCRIPT.js</res_file>
+		<res_file_compiled>resources/Disposition/default/XTAB_SCRIPT.min.js</res_file_compiled>
 		<res_image/>
 		<row_module_id.mdl_name>XTab</row_module_id.mdl_name>
 	</data>
