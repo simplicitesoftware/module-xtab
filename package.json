@@ -1,8 +1,8 @@
 {
-    "date": "Fri Feb 28 14:24:57 CET 2020",
+    "date": "Fri Feb 28 14:31:53 CET 2020",
     "name": "XTab",
     "format": "xml",
-    "description": "The `XTab` module is a packaging of the **XTab**\nopen source project.\n\nSee. https://github.com/cgdave/xtab for details.",
+    "description": "The `XTab` module is a packaging of the **XTab**\nopen source project (see. https://github.com/cgdave/xtab for details).\n\nIt provides 2 default disposition-level resources:\n\n- JavaScript: `XTAB_SCRIPT`\n- CSS: `XTAB_STYLES`\n\nThat you can integrate to your custom external objects.",
     "files": ["XTab.xml"],
     "repository": {"origin": {"uri": "https://github.com/simplicitesoftware/module-xtab.git"}},
     "version": "4.0",

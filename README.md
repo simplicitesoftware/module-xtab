@@ -12,7 +12,12 @@
 ========================
 
 The `XTab` module is a packaging of the **XTab**
-open source project.
+open source project (see. https://github.com/cgdave/xtab for details).
 
-See. https://github.com/cgdave/xtab for details.
+It provides 2 default disposition-level resources:
+
+- JavaScript: `XTAB_SCRIPT`
+- CSS: `XTAB_STYLES`
+
+That you can integrate to your custom external objects.
 

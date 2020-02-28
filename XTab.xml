@@ -13,11 +13,16 @@
 		"uri": "https://github.com/simplicitesoftware/module-xtab.git"
 	}
 }]]></mdl_url>
-		<mdl_lastupd>2020-02-28 14:24:57</mdl_lastupd>
+		<mdl_lastupd>2020-02-28 14:31:53</mdl_lastupd>
 		<mdl_comment><![CDATA[The `XTab` module is a packaging of the **XTab**
-open source project.
+open source project (see. https://github.com/cgdave/xtab for details).
 
-See. https://github.com/cgdave/xtab for details.]]></mdl_comment>
+It provides 2 default disposition-level resources:
+
+- JavaScript: `XTAB_SCRIPT`
+- CSS: `XTAB_STYLES`
+
+That you can integrate to your custom external objects.]]></mdl_comment>
 	</data>
 </object>
 <object>
