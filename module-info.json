@@ -1,9 +1,9 @@
 {
-    "date": "2021-03-12 18:11:46",
+    "date": "2021-10-01 18:16:34",
     "name": "XTab",
     "format": "xml",
     "files": ["XTab.xml"],
-    "repository": {},
+    "repository": {"origin": {"uri": "https://github.com/simplicitesoftware/module-xtab.git"}},
     "version": "5",
-    "platform": "5.2.0-alpha"
+    "platform": "5.2.0-beta"
 }
